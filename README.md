@@ -3,6 +3,8 @@
 Este proyecto fue creado como parte de los requisitos para el curso de Desarrollador Full Stack en JavaScript de Desafío Latam. 
 ¡Bienvenido a mi curriculum vitae digital! 👩‍💻
 
+https://sigridmv.github.io/Desafio-Curriculum/
+
 ## Descripción
 
 Este es un curriculum vitae interactivo que presenta mi experiencia profesional, formación académica y habilidades en el desarrollo web. 
